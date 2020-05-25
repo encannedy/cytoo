@@ -3,21 +3,25 @@ function generateMarkdown(data) {
   let filename = "README.md";
   fs.writeFile(
     filename,
+
 `# ${data.title}\n\n
 
 [![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](${data.githubprofile})\n\n
 
 ## Table of Contents\n\n
 [Title](#Title)\n
-[Description](#Description)\n
+[Describe](#Describe)\n
 [Github_username](#github_username)\n
 [Installation](#Installation)\n
 [Usage](#Usage)\n
 [License](#License)\n
 [Contributors](#Contributors)\n
 [Tests](#Tests)\n\n
-## Description\n
-${data.description}\n\n
+
+## Describe\n
+${data.describe}\n\n
+##Github\n
+${data.github}\n\n
 ## Installation\n
 ${data.install}\n\n
 ## Usage\n

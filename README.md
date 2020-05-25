@@ -1,4 +1,4 @@
-# undefined
+# Erica's ReadMe
 
 
 
@@ -11,7 +11,7 @@
 
 [Title](#Title)
 
-[Description](#Description)
+[Describe](#Describe)
 
 [Github_username](#github_username)
 
@@ -26,9 +26,15 @@
 [Tests](#Tests)
 
 
-## Description
 
-undefined
+## Describe
+
+to generate a readme file
+
+
+##Github
+
+github.com/encannedy
 
 
 ## Installation

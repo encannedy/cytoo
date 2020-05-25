@@ -6,18 +6,18 @@ inquirer.prompt([
     {
         type:"input",
         message: "what is the title of your project?",
-        name: "Title"
+        name: "title"
     },
     {
         type:"input",
         message: "Give a description of your project?",
-        name: "Description"
+        name: "describe"
 
     },
     {
         type:"input",
         message: "Please link to your github profile.",
-        name: "github_username"
+        name: "github"
     },
     {
         type:"input",
