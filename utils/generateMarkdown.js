@@ -5,7 +5,7 @@ function generateMarkdown(data) {
     filename,
 `# ${data.title}\n\n
 
-[![NPM Badge](/npm/v/:scope/:packageName)](${data.githubprofile})\n\n
+[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](${data.githubprofile})\n\n
 
 ## Table of Contents\n\n
 [Description](#Description)\n
