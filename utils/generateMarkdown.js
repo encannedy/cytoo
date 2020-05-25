@@ -12,7 +12,7 @@ function generateMarkdown(data) {
 [Installation](#Installation)\n
 [Usage](#Usage)\n
 [License](#License)\n
-[Contributing](#Contributing)\n
+[Contributors](#Contributors)\n
 [Tests](#Tests)\n\n
 ## Description\n
 ${data.description}\n\n

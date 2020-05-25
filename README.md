@@ -17,7 +17,7 @@
 
 [License](#License)
 
-[Contributing](#Contributing)
+[Contributors](#Contributors)
 
 [Tests](#Tests)
 
@@ -29,12 +29,12 @@ undefined
 
 ## Installation
 
-clone the repo
+clone the repo and follow the promps once npm is initialized
 
 
 ## Usage
 
-to generate a new readme
+this project is intended to create a readme file
 
 
 ## License
@@ -44,7 +44,7 @@ none
 
 ## Contributing
 
-Erica Cannedy
+none
 
 
 ## Tests

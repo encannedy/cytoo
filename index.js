@@ -38,46 +38,14 @@ inquirer.prompt([
         type:"input",
         message: "Please list any contributing developers on this project",
         name: "contributions"
+    },
+    {
+        type:"input",
+        message: "Please add any tests that were run for this project",
+        name: "tests"
     }
 ]).then(function(data) {
     generateMarkdown(data)
   });
 
 
-// ;
-
-// function writeToFile(fileName, data) {
-// //fs write file name etc
-// // fs.writeFile("log.txt", process.argv[2], function(err) {
-
-// //   if (err) {
-// //     return console.log(err);
-// //   }
-
-// //   console.log("Success!");
-
-// // });
-
-// }
-
-// function init() {
-//     inquirer.prompt(questions).then(function(answers){
-            
-//             answers.table=
-//             `# Table of Contents
-//             ## ${answers.license}
-            
-//             # ${answers.usage}`
-
-//             //continue to to input table info
-
-//             var data = generateMarkdown(answers)
-//             if (answers.type == "cli"){
-//                 inquirer.prompt([/*put CLI questions here*/])
-//             }
-//             //put writeToFile inside the .then because you're using the object generated inside the .then promise
-//     } 
-//         )
-// }
-
-// init();
