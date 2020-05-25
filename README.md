@@ -2,7 +2,7 @@
 
 
 
-[![NPM Badge](/npm/v/:scope/:packageName)](undefined)
+[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](undefined)
 
 
 
@@ -29,12 +29,12 @@ undefined
 
 ## Installation
 
-clone the repo and follow the promps once npm is initialized
+clone the repo
 
 
 ## Usage
 
-this project is intended to create a readme file
+It is intended to help generate a readme file
 
 
 ## License
