@@ -11,7 +11,7 @@ inquirer.prompt([
     {
         type:"input",
         message: "Give a description of your project?",
-        name: "Project Description"
+        name: "Description"
 
     },
     {
@@ -42,10 +42,10 @@ inquirer.prompt([
     {
         type:"input",
         message: "Please add any tests that were run for this project",
-        name: "tests"
+        name: "test"
     }
-]).then(function(data) {
-    generateMarkdown(data)
+        ]).then(function(data) {
+        generateMarkdown(data)
   });
 
 

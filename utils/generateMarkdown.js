@@ -8,7 +8,9 @@ function generateMarkdown(data) {
 [![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](${data.githubprofile})\n\n
 
 ## Table of Contents\n\n
+[Title](#Title)\n
 [Description](#Description)\n
+[Github_username](#github_username)\n
 [Installation](#Installation)\n
 [Usage](#Usage)\n
 [License](#License)\n
@@ -22,7 +24,7 @@ ${data.install}\n\n
 ${data.usage}\n\n
 ## License\n
 ${data.license}\n\n
-## Contributing\n
+## Contributions\n
 ${data.contributions}\n\n
 ## Tests\n
 ${data.test}

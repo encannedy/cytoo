@@ -9,7 +9,11 @@
 ## Table of Contents
 
 
+[Title](#Title)
+
 [Description](#Description)
+
+[Github_username](#github_username)
 
 [Installation](#Installation)
 
@@ -34,7 +38,7 @@ clone the repo
 
 ## Usage
 
-It is intended to help generate a readme file
+to generate a readme file
 
 
 ## License
@@ -42,11 +46,11 @@ It is intended to help generate a readme file
 none
 
 
-## Contributing
+## Contributions
 
 none
 
 
 ## Tests
 
-undefined
+none
