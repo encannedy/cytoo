@@ -2,7 +2,7 @@
 
 
 
-[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](undefined)
+[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](github.com/encannedy)
 
 
 
@@ -13,7 +13,7 @@
 
 [Describe](#Describe)
 
-[Github_username](#github_username)
+[Github](#github)
 
 [Installation](#Installation)
 
@@ -29,27 +29,27 @@
 
 ## Describe
 
-to generate a readme file
+This project is meant to generate code in Node that will automatically create a ReadMe file
 
 
-##Github
+## Github
 
 github.com/encannedy
 
 
 ## Installation
 
-clone the repo
+clone the repo and open the file in the terminal using node then follow the prompts
 
 
 ## Usage
 
-to generate a readme file
+this project is intended to be used to generate a readme page
 
 
 ## License
 
-none
+none 
 
 
 ## Contributions
@@ -59,4 +59,4 @@ none
 
 ## Tests
 
-none
+this project was tested multiple times using node to assure the correct information was generated and stored correctly

@@ -6,12 +6,12 @@ function generateMarkdown(data) {
 
 `# ${data.title}\n\n
 
-[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](${data.githubprofile})\n\n
+[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](${data.github})\n\n
 
 ## Table of Contents\n\n
 [Title](#Title)\n
 [Describe](#Describe)\n
-[Github_username](#github_username)\n
+[Github](#github)\n
 [Installation](#Installation)\n
 [Usage](#Usage)\n
 [License](#License)\n
@@ -20,7 +20,7 @@ function generateMarkdown(data) {
 
 ## Describe\n
 ${data.describe}\n\n
-##Github\n
+## Github\n
 ${data.github}\n\n
 ## Installation\n
 ${data.install}\n\n
