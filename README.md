@@ -1,8 +1,8 @@
-# Erica's ReadMe
+# Eat Da Burger
 
 
 
-[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](github.com/encannedy)
+[![Github Badge](https://img.shields.io/badge/Github-Profile-brightgreen)](https://github.com/encannedy)
 
 
 
@@ -29,34 +29,34 @@
 
 ## Describe
 
-This project is meant to generate code in Node that will automatically create a ReadMe file
+This project allows you to input a burger and push to the page.  You can also "devour" or "delete" the burger once it has been added to the page.
 
 
 ## Github
 
-github.com/encannedy
+https://github.com/encannedy
 
 
 ## Installation
 
-clone the repo and open the file in the terminal using node then follow the prompts
+Open app using Heroku to see the magic
 
 
 ## Usage
 
-this project is intended to be used to generate a readme page
+This project allows you to input and virtually devour or delete a burger of your choosing
 
 
 ## License
 
-none 
+
 
 
 ## Contributions
 
-none
+Erica Cannedy
 
 
 ## Tests
 
-this project was tested multiple times using node to assure the correct information was generated and stored correctly
+Tests were run locally
